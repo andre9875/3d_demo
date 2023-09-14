@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d517ccd1731fff44e855602b00e9063c
+timeCreated: 1574363735
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177160
+  packageName: FPS Controls for mobile devices
+  packageVersion: 1.0
+  assetPath: Assets/FPS Controls/Example/Materials/GroundMaterialForExampleScene.mat
+  uploadId: 385589

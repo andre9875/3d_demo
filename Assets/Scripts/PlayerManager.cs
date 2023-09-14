@@ -29,5 +29,10 @@ public class PlayerManager : MonoBehaviour
         }
 
     }
+    private void OnTriggerExit(Collider other)
+    {
+        audioWall.GetComponent<AudioSource>().Pause();
+
+    }
 
 }

@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
-    guid: e871ab7c914d646479118c3d2c648d8e
+    path: Assets/Scenes/MobileScene.unity
+    guid: a6124a615f4712b478f451c5fe92a407
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

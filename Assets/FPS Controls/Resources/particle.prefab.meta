@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f1a1e219ac4c4e4296c0b2c4c619efe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177160
+  packageName: FPS Controls for mobile devices
+  packageVersion: 1.0
+  assetPath: Assets/FPS Controls/Resources/particle.prefab
+  uploadId: 385589

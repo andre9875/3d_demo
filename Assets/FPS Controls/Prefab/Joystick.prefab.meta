@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c32b8658244b82c46836637a4dc1505a
+timeCreated: 1574804914
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177160
+  packageName: FPS Controls for mobile devices
+  packageVersion: 1.0
+  assetPath: Assets/FPS Controls/Prefab/Joystick.prefab
+  uploadId: 385589
